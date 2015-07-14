@@ -1,0 +1,7 @@
+{
+	"name": "roberthorlings/sonos-interface",
+	"require": {
+		"duncan3dc/sonos": "*",
+		"slim/slim": "^2.6"
+	}
+}
